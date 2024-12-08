@@ -1,5 +1,5 @@
 import unittest
-from for_tests_12_2 import Runner, Tournament  # Замените 'runner' на имя файла с классами Runner и Tournament
+from for_tests_12_2 import Runner, Tournament
 
 
 class TournamentTest(unittest.TestCase):
